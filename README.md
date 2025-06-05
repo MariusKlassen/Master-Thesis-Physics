@@ -1,1 +1,2 @@
-Master Thesis Project: Modeling how Human Brain detects Motion. Therefore developing Spatio-Temporal Filters sensitive for Translation and Convolute them with Stimulus to receive Motion Field. The Filters represent Receptive Fields in the Human Visual System.
+Master Thesis Project: Modeling how Human Brain detects Motion. Therefore developing Spatio-Temporal Filters sensitive for Translation and Convolute them with Stimulus to receive Motion Field. The Filters represent Receptive Fields in the Human Visual System. The Motion Field is closely related to the Optical Flow which the brain uses to perceive Object Motion, Self Motion and Positioning in Space.
+
